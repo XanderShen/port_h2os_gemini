@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="otacerts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/gemini/system/etc/security/otacerts.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

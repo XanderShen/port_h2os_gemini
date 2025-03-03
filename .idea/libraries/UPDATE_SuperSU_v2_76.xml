@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UPDATE-SuperSU-v2.76">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/odex/tools/root/supersu/UPDATE-SuperSU-v2.76.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

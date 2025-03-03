@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UPDATE-Busybox.Installer.v1.24.2-ALL-signed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/odex/tools/root/busybox/UPDATE-Busybox.Installer.v1.24.2-ALL-signed.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

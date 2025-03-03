@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="current">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/odex/tools/smali/current/oat2dex-98ba49d9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/odex/tools/smali/current/baksmali-2.1.3-2709afc5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/odex/tools/smali/current/smali-2.1.3-2709afc5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

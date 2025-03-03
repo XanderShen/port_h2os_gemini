@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="framework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/gemini/system/framework/com.android.nfc_extras.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/gemini/system/framework/com.xiaomi.sensor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/gemini/system/framework/com.android.qti.qpay.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

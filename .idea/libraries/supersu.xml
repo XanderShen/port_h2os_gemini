@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="supersu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/root/supersu.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
